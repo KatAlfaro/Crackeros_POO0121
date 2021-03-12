@@ -1,0 +1,16 @@
+C:\Users\kattt\OneDrive\Escritorio\Ciclo 01-21\POO\Optativas\Crackeros_POO0121\Modify1\bin\Debug\net5.0\Modify1.exe
+C:\Users\kattt\OneDrive\Escritorio\Ciclo 01-21\POO\Optativas\Crackeros_POO0121\Modify1\bin\Debug\net5.0\Modify1.deps.json
+C:\Users\kattt\OneDrive\Escritorio\Ciclo 01-21\POO\Optativas\Crackeros_POO0121\Modify1\bin\Debug\net5.0\Modify1.runtimeconfig.json
+C:\Users\kattt\OneDrive\Escritorio\Ciclo 01-21\POO\Optativas\Crackeros_POO0121\Modify1\bin\Debug\net5.0\Modify1.runtimeconfig.dev.json
+C:\Users\kattt\OneDrive\Escritorio\Ciclo 01-21\POO\Optativas\Crackeros_POO0121\Modify1\bin\Debug\net5.0\Modify1.dll
+C:\Users\kattt\OneDrive\Escritorio\Ciclo 01-21\POO\Optativas\Crackeros_POO0121\Modify1\bin\Debug\net5.0\ref\Modify1.dll
+C:\Users\kattt\OneDrive\Escritorio\Ciclo 01-21\POO\Optativas\Crackeros_POO0121\Modify1\bin\Debug\net5.0\Modify1.pdb
+C:\Users\kattt\OneDrive\Escritorio\Ciclo 01-21\POO\Optativas\Crackeros_POO0121\Modify1\obj\Debug\net5.0\Modify1.csprojAssemblyReference.cache
+C:\Users\kattt\OneDrive\Escritorio\Ciclo 01-21\POO\Optativas\Crackeros_POO0121\Modify1\obj\Debug\net5.0\Modify1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kattt\OneDrive\Escritorio\Ciclo 01-21\POO\Optativas\Crackeros_POO0121\Modify1\obj\Debug\net5.0\Modify1.AssemblyInfoInputs.cache
+C:\Users\kattt\OneDrive\Escritorio\Ciclo 01-21\POO\Optativas\Crackeros_POO0121\Modify1\obj\Debug\net5.0\Modify1.AssemblyInfo.cs
+C:\Users\kattt\OneDrive\Escritorio\Ciclo 01-21\POO\Optativas\Crackeros_POO0121\Modify1\obj\Debug\net5.0\Modify1.csproj.CoreCompileInputs.cache
+C:\Users\kattt\OneDrive\Escritorio\Ciclo 01-21\POO\Optativas\Crackeros_POO0121\Modify1\obj\Debug\net5.0\Modify1.dll
+C:\Users\kattt\OneDrive\Escritorio\Ciclo 01-21\POO\Optativas\Crackeros_POO0121\Modify1\obj\Debug\net5.0\ref\Modify1.dll
+C:\Users\kattt\OneDrive\Escritorio\Ciclo 01-21\POO\Optativas\Crackeros_POO0121\Modify1\obj\Debug\net5.0\Modify1.pdb
+C:\Users\kattt\OneDrive\Escritorio\Ciclo 01-21\POO\Optativas\Crackeros_POO0121\Modify1\obj\Debug\net5.0\Modify1.genruntimeconfig.cache

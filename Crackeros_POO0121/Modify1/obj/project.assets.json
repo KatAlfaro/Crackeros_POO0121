@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kattt\\OneDrive\\Escritorio\\Ciclo 01-21\\POO\\Optativas\\Crackeros_POO0121\\Modificacion1\\Modificacion1.csproj",
-      "projectName": "Modificacion1",
-      "projectPath": "C:\\Users\\kattt\\OneDrive\\Escritorio\\Ciclo 01-21\\POO\\Optativas\\Crackeros_POO0121\\Modificacion1\\Modificacion1.csproj",
+      "projectUniqueName": "C:\\Users\\kattt\\OneDrive\\Escritorio\\Ciclo 01-21\\POO\\Optativas\\Crackeros_POO0121\\Modify1\\Modify1.csproj",
+      "projectName": "Modify1",
+      "projectPath": "C:\\Users\\kattt\\OneDrive\\Escritorio\\Ciclo 01-21\\POO\\Optativas\\Crackeros_POO0121\\Modify1\\Modify1.csproj",
       "packagesPath": "C:\\Users\\kattt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kattt\\OneDrive\\Escritorio\\Ciclo 01-21\\POO\\Optativas\\Crackeros_POO0121\\Modificacion1\\obj\\",
+      "outputPath": "C:\\Users\\kattt\\OneDrive\\Escritorio\\Ciclo 01-21\\POO\\Optativas\\Crackeros_POO0121\\Modify1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kattt\\AppData\\Roaming\\NuGet\\NuGet.Config"
