@@ -20,7 +20,7 @@ namespace Modificacion1
 
         public  static int SubNumbers(int a, int b)
         {
-            return a - b;
+            return a * b;
         }
     }
 }
